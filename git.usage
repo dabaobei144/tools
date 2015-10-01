@@ -11,3 +11,6 @@ git remote add origin git@github.com:dabaobei144/XXX.git
 #push
 git push -u origin master
 
+# git clone to specified directory(then the dir structure will not contain git root dir)
+git clone XXX.git ~/dst
+ 
